@@ -6,4 +6,4 @@ The website has been created to raise awareness about the **Sagra de Caplet** an
 
 Useful links:
 Website: https://martyfabbri03-arch.github.io/webcomm-fMartina.github.io/
-Pitch: https://martyfabbri03-arch.github.io/webcomm-fMartina.github.io/pitch/#/title-slide
+Pitch: https://martyfabbri03-arch.github.io/webcomm-fMartina.github.io/pitch/
